@@ -25,4 +25,6 @@
 
 ## 프로젝트 구조
 
+![그림1](https://github.com/user-attachments/assets/e1797db6-9c48-4d25-a784-91accde44a31)
+
 ## 문제점 및 해결법
