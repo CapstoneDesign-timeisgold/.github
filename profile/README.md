@@ -70,5 +70,6 @@
 
 ---
 
-### **API 명세서**
+### **API 문서**
+다른 팀원들이 보기 편하게 notion에 간단하게 정리
 https://www.notion.so/API-9ae4613ab1524466af87d95d71c29834
