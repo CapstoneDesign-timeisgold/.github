@@ -73,6 +73,6 @@
 ### **API 문서**
 /swagger-ui/index.html를 통해 확인 가능
 
-서버를 사용하지 않더라도 해당 api를 사용할 수 있도록 다른 팀원들이 보기 편하게 notion에 간단하게 정리
+서버를 사용하지 않더라도 해당 다른 팀원들이 보기 편하게 notion에 정리
 
 https://www.notion.so/API-9ae4613ab1524466af87d95d71c29834
